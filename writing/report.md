@@ -57,7 +57,7 @@
  misusing and collecting our data and the end users can't really do too much to stop
  this (unless we just don't use their product). In the article it explains that major
  tech companies such as Amazon and Apple have reported that they are using human annotators
- to listen to personal converations recorded from virtual assistants such as siri and alexa.
+ to listen to personal conversations recorded from virtual assistants such as siri and alexa.
 
 - What is the ethical concern, in your opinion?
  - The ethical concern here is again privacy. Instead though, we have put our trust in
